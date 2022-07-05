@@ -12,7 +12,7 @@ mvn deploy:deploy-file \
     -Durl=https://maven.pkg.github.com/arellano-gustavo/maven-repo
 ```
 
-No olvidar que se existir un archivo llamado setting.xml con el contenido siguiente:
+No olvidar que debe existir un archivo llamado setting.xml con el contenido siguiente:
 
 ```
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
