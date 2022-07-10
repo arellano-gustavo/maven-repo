@@ -53,3 +53,13 @@ No olvidar que debe existir un archivo llamado setting.xml con el contenido sigu
     
 </settings>
 ```
+Obviously, in your pom.xml, the repo that should be included is:
+
+```
+	<repositories>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/arellano-gustavo/maven-repo</url>
+		</repository>
+	</repositories>
+```
