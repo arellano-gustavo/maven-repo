@@ -46,7 +46,7 @@ No olvidar que debe existir un archivo llamado setting.xml con el contenido sigu
   <servers>
     <server>
       <id>github</id>
-      <username>arellano-gustavo</username>
+      <username>USERNAME</username>
       <password>TOKEN</password>
     </server>
   </servers>
